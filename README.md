@@ -7,10 +7,7 @@ Backend-focused developer specializing in Python & Go with experience in API dev
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=0xKev&theme=dark&hide_border=false)<br/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=0xKev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake.svg" />

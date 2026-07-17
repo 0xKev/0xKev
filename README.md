@@ -49,12 +49,12 @@ Here are some technologies I've worked with:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake.svg" />
 </picture> -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=0xKev&theme=dark&hide_border=false" width="700"><br>
-<picture>
+<!-- <img src="https://nirzak-streak-stats.vercel.app/?user=0xKev&theme=dark&hide_border=false" width="700"><br> -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/0xKev/0xKev/output/github-snake.svg" width="100%"/>
-</picture>
+</picture> -->
 
 
 <p align="center">
